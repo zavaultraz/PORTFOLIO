@@ -13,7 +13,7 @@
     --bg-color: #353941;
     --sec-bg-color: #26282B;
     --text-color: #fff;
-    --main-color:#7579E7;
+    --main-color: #7579E7;
 }
 
 html {
@@ -213,6 +213,7 @@ span {
     border: .2rem solid var(--bg-color);
     transition: .5s ease-in-out;
 }
+
 .service-description {
     width: 100%;
 }
@@ -303,6 +304,7 @@ span {
 .skill-column:nth-child(1) .skill-content .progress:nth-child(2) .bar span {
     width: 80%;
 }
+
 .skill-column:nth-child(1) .skill-content .progress:nth-child(3) .bar span {
     width: 50%;
 }
@@ -314,6 +316,7 @@ span {
 .skill-column:nth-child(2) .skill-content .progress:nth-child(2) .bar span {
     width: 87%;
 }
+
 .skill-column:nth-child(2) .skill-content .progress:nth-child(3) .bar span {
     width: 86%;
 }
@@ -380,11 +383,11 @@ span {
 
 
 .portofolio-box h4 {
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .pottofolio-layer p {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     margin: .3rem 0 1rem;
 }
 
@@ -638,5 +641,13 @@ span {
     .footer p {
         text-align: center;
         margin-top: 2rem;
+    }
+
+    .pottofolio-layer h4 {
+        font-size: 2rem;
+    }
+
+    .pottofolio-layer p {
+        font-size: .9rem;
     }
 }
