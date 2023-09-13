@@ -607,6 +607,14 @@ span {
     .input-box {
         flex-direction: column;
     }
+
+    .home-img img {
+        width: 100%;
+    }
+
+    .about-img img {
+        width: 100%;
+    }
 }
 
 @media (max-width:365px) {
