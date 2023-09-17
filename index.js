@@ -50,7 +50,7 @@ ScrollReveal().reveal('.home-content, .heading', {
     origin: 'top'
 });
 
-ScrollReveal().reveal('.home-img, .services-content, .portofolio-box, .contact form', {
+ScrollReveal().reveal('.home-img, .services-content, .portofolio-box, .contact form, .skill', {
     origin: 'bottom'
 });
 ScrollReveal().reveal('.home-content h1, .about-img', {
