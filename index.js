@@ -50,14 +50,14 @@ ScrollReveal().reveal('.home-content, .heading', {
     origin: 'top'
 });
 
-ScrollReveal().reveal('.home-img, .services-content, .portofolio-box, .contact form, .skill', {
+ScrollReveal().reveal('.home-img, , .portofolio-box, .contact form, .skill', {
     origin: 'bottom'
 });
-ScrollReveal().reveal('.home-content h1, .about-img', {
+ScrollReveal().reveal('.home-content h1, .about-img', '.services-box', {
     origin: 'left'
 });
 
-ScrollReveal().reveal('.home-content p, .about-content', {
+ScrollReveal().reveal('.home-content p, .about-content','.services-content', {
     origin: 'right'
 });
 
